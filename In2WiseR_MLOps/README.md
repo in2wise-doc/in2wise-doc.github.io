@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# In2WiseR MLOps
+# In2WiseR MLOps (v1.0)
 
 ## 전주기적 인공지능 학습 및 운영플랫폼
   - In2WiseR MLOps는 단일 인공지능 솔루션 개발의 전주기를 수행할 수 있는 웹 도구입니다. 
@@ -24,6 +24,7 @@ sort: 2
     - 이상치 분석 모델 제공
     - Raspberry Pi 기반 엣지 디바이스 호환 [ <a href="https://www.raspberrypi.org/">raspberrypi.org</a> ]
     - MW-AHRSv1 센서 호환 [ <a href="https://www.devicemart.co.kr/goods/view?no=1310790">제품정보</a> ]
+      - 인터페이스: TTL to RS232 컨버터(제조사: SMG-A, 모델명: SZH-CVBE-011) [ <a href="https://www.navimro.com/g/00440671/">제품정보</a> ]
   - v2.0 (예정)
     - v1.0 포함
     - 객체 인식 모델 제공
@@ -31,6 +32,8 @@ sort: 2
     - 이미지 데이터 레이블링 툴 제공
     - 수집 데이터 다운로드 및 업로드 제공
     - 학습 데이터 복원 시점 생성 및 복구 기능을 제공
+
+※ v1.0 버전에서는 로 TTL to RS232 컨버터로 연결 된 MW-AHRSv1 센서만 호환 가능합니다. (동일 사양의 진동센서 사용 불가)
 
 ## 솔루션 개발 절차
 버전 v1.0에서는 이상치 분석 모델을 제공하고 있습니다. 
@@ -52,7 +55,7 @@ sort: 2
 
 ## 제품 리플렛
   
-  ![loginflow](user_guide/images/0.1.leaflet.png)
+  ![leaflet](user_guide/images/0.1.leaflet.png)
 
 ## 목차
 
