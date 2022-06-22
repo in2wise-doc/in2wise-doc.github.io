@@ -22,9 +22,9 @@ sort: 2
 현재 제공되는 제품 버전은 v1.0입니다. 아래와 같이 제품 출시 계획을 갖고 있으며, 계약 내용에 따라 버전 업그레이드 서비스를 제공합니다.
   - v1.0
     - 이상치 분석 모델 제공
-    - Raspberry Pi 기반 엣지 디바이스 호환 [ <a href="https://www.raspberrypi.org/">raspberrypi.org</a> ]
-    - MW-AHRSv1 센서 호환 [ <a href="https://www.devicemart.co.kr/goods/view?no=1310790">제품정보</a> ]
-      - 인터페이스: TTL to RS232 컨버터(제조사: SMG-A, 모델명: SZH-CVBE-011) [ <a href="https://www.navimro.com/g/00440671/">제품정보</a> ]
+    - Raspberry Pi 기반 엣지 디바이스 호환 [ <a href="https://www.raspberrypi.org/" target="_blank">raspberrypi.org</a> ]
+    - MW-AHRSv1 센서 호환 [ <a href="https://www.devicemart.co.kr/goods/view?no=1310790" target="_blank">제품정보</a> ]
+      - 인터페이스: TTL to RS232 컨버터(제조사: SMG-A, 모델명: SZH-CVBE-011) [ <a href="https://www.navimro.com/g/00440671/" target="_blank">제품정보</a> ]
   - v2.0 (예정)
     - v1.0 포함
     - 객체 인식 모델 제공
@@ -33,7 +33,7 @@ sort: 2
     - 수집 데이터 다운로드 및 업로드 제공
     - 학습 데이터 복원 시점 생성 및 복구 기능을 제공
 
-※ v1.0 버전에서는 로 TTL to RS232 컨버터로 연결 된 MW-AHRSv1 센서만 호환 가능합니다. (동일 사양의 진동센서 사용 불가)
+※ v1.0 버전에서는 TTL to RS232 컨버터로 연결 된 MW-AHRSv1 센서만 호환 가능합니다. (동일 사양의 진동센서 사용 불가)
 
 ## 솔루션 개발 절차
 버전 v1.0에서는 이상치 분석 모델을 제공하고 있습니다. 
