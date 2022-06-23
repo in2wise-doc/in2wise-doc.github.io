@@ -2,7 +2,9 @@
 sort: 2
 ---
 
-# In2WiseR MLOps (v1.0)
+# In2WiseR MLOps
+
+ 본 문서는 **In2WiseR MLOps v1.0**의 **제품설명서**입니다.
 
 ## 전주기적 인공지능 학습 및 운영플랫폼
   - In2WiseR MLOps는 단일 인공지능 솔루션 개발의 전주기를 수행할 수 있는 웹 도구입니다. 
